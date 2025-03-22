@@ -20,7 +20,7 @@
     ],
     "require": {
         "composer/installers": "~1.0",
-        "barryvdh/laravel-dompdf": "^2.0"
+        "barryvdh/laravel-dompdf": "^3.0"
     },
     "config": {
         "allow-plugins": {
